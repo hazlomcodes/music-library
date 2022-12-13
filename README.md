@@ -2,7 +2,7 @@ Music-Libary
 
 This project seeks to improve my understanding of backend fundamentals through constructing a music library API.
 
-This API is built in JavaScript and uses Express.Js as its framework. 
+This API is built in JavaScript and uses Express.Js as its framework.
 
 The project also utilises Docker, PgAdmin4 and Postman.
 
